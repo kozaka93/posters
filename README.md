@@ -8,9 +8,13 @@ Posters collected by: [@kozaka93](https://github.com/kozaka93)
 
 ### [Data Visualization Techniques]()
 
+
+
 Instructors: [@kozaka93](https://github.com/kozaka93) [@HubertR21](https://github.com/HubertR21) [@maciejchrabaszcz](https://github.com/maciejchrabaszcz) [@woznicak](https://github.com/woznicak)
 
 ### [Introduction to exploratory data analysis]()
+
+
 
 Instructors: [@kozaka93](https://github.com/kozaka93) [@krzyzinskim](https://github.com/krzyzinskim) [@maciejchrabaszcz](https://github.com/maciejchrabaszcz)
 
