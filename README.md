@@ -14,7 +14,7 @@ Instructors: [@kozaka93](https://github.com/kozaka93) [@HubertR21](https://githu
 
 ### [Introduction to exploratory data analysis](https://github.com/kozaka93/posters/tree/main/2024-2025/ExploratoryDataAnalysis)
 
-
+Are you interested in the age structure of society? Which names have been the most popular over the years? You will find answers to these and other questions in the posters prepared by students. 
 
 Instructors: [@kozaka93](https://github.com/kozaka93) [@krzyzinskim](https://github.com/krzyzinskim) [@maciejchrabaszcz](https://github.com/maciejchrabaszcz)
 
@@ -25,9 +25,13 @@ Instructors: [@kozaka93](https://github.com/kozaka93) [@krzyzinskim](https://git
 
 ### [Data Visualization Techniques](https://github.com/kozaka93/posters/tree/main/2023-2024/DataVisualizationTechniques)
 
+Have you ever wondered what goes into making the perfect espresso? Why are some fast foods addictive and others not? You will find answers to these and other questions in our prepared posters
+
 Instructors: [@kozaka93](https://github.com/kozaka93) [@krzyzinskim](https://github.com/krzyzinskim) [@mikolajsp](https://github.com/mikolajsp) [@woznicak](https://github.com/woznicak)
 
 ### [Introduction to exploratory data analysis](https://github.com/kozaka93/posters/tree/main/2023-2024/ExploratoryDataAnalysis)
+
+What makes some films become classics, while others fade into obscurity? What determines the success of a best-selling book series? Or what elements make TV series so utterly captivating? If so, discover the answers to these and other questions by browsing through posters that will take you through literature and cinema.
 
 Instructors: [@kozaka93](https://github.com/kozaka93) [@HubertR21](https://github.com/HubertR21) [@maciejchrabaszcz](https://github.com/maciejchrabaszcz)
 
