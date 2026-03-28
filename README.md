@@ -3,6 +3,20 @@
 Posters collected by: [@kozaka93](https://github.com/kozaka93)
 
 ---
+## Academic year 2025/2026
+
+### [Data Visualization Techniques](https://github.com/kozaka93/posters/tree/main/2025-2026/DataVisualizationTechniques)
+
+Instructors: [@kozaka93](https://github.com/kozaka93) [@danielewskai](https://github.com/danielewskai) [@DawidPludowski](https://github.com/DawidPludowski) [@woznicak](https://github.com/woznicak)
+
+### [Introduction to exploratory data analysis](https://github.com/kozaka93/posters/tree/main/2025-2026/ExploratoryDataAnalysis)
+
+Instructors: [@kozaka93](https://github.com/kozaka93) [@danielewskai](https://github.com/danielewskai) [@DawidPludowski](https://github.com/DawidPludowski) [@woznicak](https://github.com/woznicak)
+
+
+
+
+---
 
 ## Academic year 2024/2025
 
