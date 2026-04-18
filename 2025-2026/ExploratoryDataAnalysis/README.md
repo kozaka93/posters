@@ -1,4 +1,4 @@
-## Data Visualization Techniques
+## Introduction to exploratory data analysis
 
 ### Posters about Poland
 
